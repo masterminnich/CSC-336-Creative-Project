@@ -1,0 +1,25 @@
+body{ font-family: 'Lato', sans-serif; }
+
+h1 { font-size: 4vw; font-weight: 700; margin-bottom: 0; }
+
+footer, header h1 { text-align: center; }
+
+p { font-weight: 300; }
+
+main { text-align: center; }
+
+main img { max-width: 300px; padding: 1em; }
+
+figure { text-align:center; }
+
+button { outline: solid black 2px; background-color: white; border: solid white 2px; margin: 0; }
+
+button:active, button:focus { outline: solid green 2px; border: solid lime 2px; }
+
+button#submit{ outline: none; border: solid black 1px; border-radius: .25em; font-size: 1.4em; padding: .25em .5em; }
+
+button#submit:hover { background-color: #F0F0F0; }
+
+img#brain_icon { width: 100px; margin: 1vw auto 1vw auto; display: block; }
+
+.arb { font-weight: 500; color: #0868a3; margin: 0; }
